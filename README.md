@@ -29,3 +29,25 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 | gross_income            | Gross Income                            | DECIMAL(10, 2) |
 | rating                  | Rating                                  | FLOAT(2, 1)    |
 
+
+# Project 2 BigBasket (https://github.com/Sourabh22C/BigBasket-Sales-Data-Mining-and-Visualization/blob/main/bigbasketproject_bysourabh22.ipynb)
+![bigbasket](https://github.com/Sourabh22C/BigBasket-Sales-Data-Mining-and-Visualization/blob/main/SUCCESS-STORY-1.png)
+
+### Key Features of the Project:
+Data Cleaning and Preprocessing
+
+### Handling missing values through appropriate imputation methods.
+Removing outliers using the Interquartile Range (IQR) method.
+Exploratory Data Analysis (EDA)
+
+### Examining product performance, sales trends, and customer behavior.
+Uncovering patterns and correlations within the dataset.
+Data Visualization
+
+### Leveraging libraries like Matplotlib and Seaborn to create meaningful visualizations.
+Graphs and charts include bar plots, box plots, scatter plots, and more to highlight key insights.
+Technologies Used:
+#### Python: Core programming language for data analysis.
+#### Pandas: For data manipulation and preprocessing.
+#### Matplotlib & Seaborn: For data visualization.
+#### NumPy: For numerical computations.
