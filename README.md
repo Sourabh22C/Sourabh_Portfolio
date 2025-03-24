@@ -1,53 +1,78 @@
-# Sourabh Portfolio
+# 💼 Sourabh's Portfolio
 
-# Project 1 SQL Wallmart Analysis [https://github.com/Sourabh22C/Sql_wallmart/blob/main/Project.sql]
- ## Purposes Of The Project
+Welcome to my Data Analytics Portfolio! Here, I showcase projects that reflect my skills in SQL, Python, Power BI, Excel, and more.
 
-The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
+---
 
-## About Data
+## 📊 Project 1: SQL Walmart Sales Analysis  
+🔗 [Project SQL File](https://github.com/Sourabh22C/Sql_walmart/blob/main/Project.sql)
 
-The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+### 🎯 Purpose of the Project
+The main goal of this project is to gain insight into the sales data of Walmart to understand various factors that impact the sales performance of different branches.
 
-| Column                  | Description                             | Data Type      |
-| :---------------------- | :-------------------------------------- | :------------- |
-| invoice_id              | Invoice of the sales made               | VARCHAR(30)    |
-| branch                  | Branch at which sales were made         | VARCHAR(5)     |
-| city                    | The location of the branch              | VARCHAR(30)    |
-| customer_type           | The type of the customer                | VARCHAR(30)    |
-| gender                  | Gender of the customer making purchase  | VARCHAR(10)    |
-| product_line            | Product line of the product solf        | VARCHAR(100)   |
-| unit_price              | The price of each product               | DECIMAL(10, 2) |
-| quantity                | The amount of the product sold          | INT            |
-| VAT                 | The amount of tax on the purchase       | FLOAT(6, 4)    |
-| total                   | The total cost of the purchase          | DECIMAL(10, 2) |
-| date                    | The date on which the purchase was made | DATE           |
-| time                    | The time at which the purchase was made | TIMESTAMP      |
-| payment_method                 | The total amount paid                   | DECIMAL(10, 2) |
-| cogs                    | Cost Of Goods sold                      | DECIMAL(10, 2) |
-| gross_margin_percentage | Gross margin percentage                 | FLOAT(11, 9)   |
-| gross_income            | Gross Income                            | DECIMAL(10, 2) |
-| rating                  | Rating                                  | FLOAT(2, 1)    |
+### 📂 About the Data  
+The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).  
+It contains transactional data from three Walmart branches located in Mandalay, Yangon, and Naypyitaw. The dataset has **17 columns** and **1000 rows**.
 
+| Column Name     | Description                                 | Data Type         |
+|------------------|---------------------------------------------|--------------------|
+| invoice_id       | Invoice of the sales made                   | VARCHAR(30)        |
+| branch           | Branch where sales were made                | VARCHAR(5)         |
+| city             | City of the branch                          | VARCHAR(30)        |
+| customer_type    | Type of customer                            | VARCHAR(30)        |
+| gender           | Gender of the customer                      | VARCHAR(10)        |
+| product_line     | Product line of the product sold            | VARCHAR(100)       |
+| unit_price       | Price of each product                       | DECIMAL(12, 2)     |
+| quantity         | Quantity sold                               | INT                |
+| VAT              | Tax amount                                  | FLOAT(6, 4)        |
+| total            | Total cost including VAT                   | DECIMAL(10, 2)     |
+| date             | Date of purchase                            | DATE               |
+| time             | Time of purchase                            | TIME               |
+| payment          | Payment method                              | VARCHAR(20)        |
+| cogs             | Cost of goods sold                          | FLOAT(10, 2)       |
+| gross_margin_pct | Gross margin percentage                     | FLOAT(6, 4)        |
+| gross_income     | Gross income earned                         | DECIMAL(10, 2)     |
+| rating           | Customer rating (scale of 1 to 10)          | FLOAT(2, 1)        |
 
-# Project 2 BigBasket (https://github.com/Sourabh22C/BigBasket-Sales-Data-Mining-and-Visualization/blob/main/bigbasketproject_bysourabh22.ipynb)
-![bigbasket](https://github.com/Sourabh22C/BigBasket-Sales-Data-Mining-and-Visualization/blob/main/SUCCESS-STORY-1.png)
+---
 
-### Key Features of the Project:
-Data Cleaning and Preprocessing
+## 🛒 Project 2: BigBasket Sales Data Mining and Visualization  
+🔗 [View Project Notebook](https://github.com/Sourabh22C/BigBasket-Sales-Data-Mining-and-Visualization/blob/main/bigbasketproject_bysourabh22.ipynb)  
+![BigBasket](https://github.com/Sourabh22C/BigBasket-Sales-Data-Mining-and-Visualization/blob/main/SUCCESS-STORY-1.png)
 
-### Handling missing values through appropriate imputation methods.
-Removing outliers using the Interquartile Range (IQR) method.
-Exploratory Data Analysis (EDA)
+### 📌 Key Features of the Project:
 
-### Examining product performance, sales trends, and customer behavior.
-Uncovering patterns and correlations within the dataset.
-Data Visualization
+#### 🔍 Data Cleaning and Preprocessing
+- Handling missing values through appropriate imputation methods.
+- Removing outliers using the **Interquartile Range (IQR)** method.
 
-### Leveraging libraries like Matplotlib and Seaborn to create meaningful visualizations.
-Graphs and charts include bar plots, box plots, scatter plots, and more to highlight key insights.
-Technologies Used:
-#### Python: Core programming language for data analysis.
-#### Pandas: For data manipulation and preprocessing.
-#### Matplotlib & Seaborn: For data visualization.
-#### NumPy: For numerical computations.
+#### 📊 Exploratory Data Analysis (EDA)
+- Examining product performance, sales trends, and customer behavior.
+- Uncovering patterns and correlations within the dataset.
+
+#### 📈 Data Visualization
+- Leveraging libraries like **Matplotlib** and **Seaborn** to create insightful visualizations.
+- Visuals include **bar plots**, **box plots**, **scatter plots**, and more.
+
+### 💻 Technologies Used:
+- **Python**: Core programming language for data analysis.
+- **Pandas**: For data manipulation and preprocessing.
+- **NumPy**: For numerical computations.
+- **Matplotlib & Seaborn**: For impactful data visualizations.
+
+---
+
+### 🚀 Upcoming Projects
+- Netflix EDA using Pandas & Matplotlib  
+- Zomato Restaurants Analysis  
+- Power BI Sales Dashboard  
+- AI-powered Streamlit PDF Query Tool
+
+---
+
+🔗 **Explore More Projects:** [Visit My GitHub](https://github.com/Sourabh22C)  
+📫 **Connect with Me on LinkedIn:** [Sourabh Verma](https://www.linkedin.com/in/sourabh-verma-901b20347/)
+
+---
+
+🌟 _Thank you for visiting my portfolio!_
