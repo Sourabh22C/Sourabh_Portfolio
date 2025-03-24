@@ -1,6 +1,6 @@
 # Sourabh Portfolio
 
- # [Project 1 SQL Wallmart Analysis ][https://github.com/Sourabh22C/Sql_wallmart/blob/main/Project.sql]
+# Project 1 SQL Wallmart Analysis [https://github.com/Sourabh22C/Sql_wallmart/blob/main/Project.sql]
  ## Purposes Of The Project
 
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
