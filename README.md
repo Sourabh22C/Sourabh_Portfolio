@@ -1,6 +1,6 @@
 # 💼 Sourabh's Portfolio
 
-Welcome to my Data Analytics Portfolio! Here, I showcase projects that reflect my skills in SQL, Python, Power BI, Excel, and more.
+Welcome to my Data Analytics Portfolio! Here, I showcase projects that reflect my skills in **SQL**, **Python**, **Power BI**, **Excel**, and more.
 
 ---
 
@@ -12,7 +12,7 @@ The main goal of this project is to gain insight into the sales data of Walmart 
 
 ### 📂 About the Data  
 The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).  
-It contains transactional data from three Walmart branches located in Mandalay, Yangon, and Naypyitaw. The dataset has **17 columns** and **1000 rows**.
+It contains transactional data from three Walmart branches located in **Mandalay**, **Yangon**, and **Naypyitaw**. The dataset has **17 columns** and **1000 rows**.
 
 | Column Name     | Description                                 | Data Type         |
 |------------------|---------------------------------------------|--------------------|
@@ -25,7 +25,7 @@ It contains transactional data from three Walmart branches located in Mandalay, 
 | unit_price       | Price of each product                       | DECIMAL(12, 2)     |
 | quantity         | Quantity sold                               | INT                |
 | VAT              | Tax amount                                  | FLOAT(6, 4)        |
-| total            | Total cost including VAT                   | DECIMAL(10, 2)     |
+| total            | Total cost including VAT                    | DECIMAL(10, 2)     |
 | date             | Date of purchase                            | DATE               |
 | time             | Time of purchase                            | TIME               |
 | payment          | Payment method                              | VARCHAR(20)        |
@@ -55,24 +55,33 @@ It contains transactional data from three Walmart branches located in Mandalay, 
 - Visuals include **bar plots**, **box plots**, **scatter plots**, and more.
 
 ### 💻 Technologies Used:
-- **Python**: Core programming language for data analysis.
-- **Pandas**: For data manipulation and preprocessing.
-- **NumPy**: For numerical computations.
-- **Matplotlib & Seaborn**: For impactful data visualizations.
+- **Python** – Core programming language for data analysis.
+- **Pandas** – Data manipulation and preprocessing.
+- **NumPy** – Numerical computations.
+- **Matplotlib & Seaborn** – Impactful data visualizations.
 
 ---
 
-### 🚀 Upcoming Projects
-- Netflix EDA using Pandas & Matplotlib  
-- Zomato Restaurants Analysis  
-- Power BI Sales Dashboard  
-- AI-powered Streamlit PDF Query Tool
+## 🚀 Upcoming Projects
+- ✅ Netflix EDA using Pandas & Matplotlib  
+- ✅ Zomato Restaurants Analysis  
+- ✅ Power BI Sales Dashboard  
+- ✅ AI-powered Streamlit PDF Query Tool
 
 ---
 
-🔗 **Explore More Projects:** [Visit My GitHub](https://github.com/Sourabh22C)  
-📫 **Connect with Me on LinkedIn:** [Sourabh Verma](https://www.linkedin.com/in/sourabh-verma-901b20347/)
+## 🌐 Portfolio Website  
+📎 **Explore my full portfolio site here:**  
+🔗 [https://sourabh22c.github.io/Sourabh_Portfolio/](https://sourabh22c.github.io/Sourabh_Portfolio/)
+
+[![Visit Website](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github)](https://sourabh22c.github.io/Sourabh_Portfolio/)
 
 ---
 
-🌟 _Thank you for visiting my portfolio!_
+## 📬 Connect with Me  
+🔗 [GitHub](https://github.com/Sourabh22C)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sourabh-verma-901b20347/)
+
+---
+
+_Thank you for visiting my portfolio!_
